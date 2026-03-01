@@ -1,0 +1,13 @@
+{
+  "name": "speak-sense-ai",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "react-scripts": "^5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  }
+}
